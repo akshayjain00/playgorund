@@ -1,0 +1,16 @@
+# Core
+numpy
+pandas
+matplotlib
+poetry
+
+# AI and ML
+transformers
+torch
+langchain
+
+# Development
+pytest
+black
+flake8
+jupyter
